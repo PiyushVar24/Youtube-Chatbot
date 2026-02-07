@@ -8,12 +8,12 @@ This app:
 - Answers questions without hallucinations
 
 🚀 Features
-🔗 Input any YouTube video URL
-📄 Automatic transcript extraction
-🧠 Semantic search with FAISS
-🤖 LLM-powered answers (context-aware)
-❌ No hallucinations – answers only from the video
-🖥️ Simple Streamlit UI
+- 🔗 Input any YouTube video URL
+- 📄 Automatic transcript extraction
+- 🧠 Semantic search with FAISS
+- 🤖 LLM-powered answers (context-aware)
+- ❌ No hallucinations – answers only from the video
+- 🖥️ Simple Streamlit UI
 
 
 🏗️ Tech Stack
